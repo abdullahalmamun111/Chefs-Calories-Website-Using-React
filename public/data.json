@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Aglio e Olio",
+        "recipe_image": "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "A quick and easy Italian pasta dish made with garlic and olive oil.",
+        "preparing_time": 20,
+        "calories": 400,
+        "ingredients": [
+            "Spaghetti: long, thin pasta typically made from durum wheat semolina.",
+            "Garlic: minced for a fragrant and savory flavor.",
+            "Olive oil: extra virgin for a rich and fruity taste.",
+            "Red pepper flakes: adds a spicy kick to the dish.",
+            "Parsley: fresh and chopped for garnish.",
+            "Salt: enhances the overall flavor of the dish.",
+            "Black pepper: freshly ground for a hint of heat.",
+            "Parmesan cheese: grated, for a salty and nutty finish."
+        ]
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Tikka Masala",
+        "recipe_image": "https://images.pexels.com/photos/9218610/pexels-photo-9218610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "A creamy and flavorful chicken dish, perfect with rice or naan.",
+        "preparing_time": 40,
+        "calories": 600,
+        "ingredients": [
+            "Chicken breast: boneless and cut into bite-sized pieces for marinating.",
+            "Yogurt: used for marinating the chicken to keep it tender.",
+            "Tomato sauce: forms the base of the rich and creamy sauce.",
+            "Onion: finely chopped for sweetness and depth of flavor.",
+            "Garlic: minced to add aromatic essence.",
+            "Ginger: grated for a hint of spice and warmth.",
+            "Spices: a blend including cumin, coriander, and garam masala for authenticity.",
+            "Cilantro: fresh leaves for garnish, adding a pop of color and flavor."
+        ]
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir Fry",
+        "recipe_image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "A colorful mix of vegetables stir-fried to perfection.",
+        "preparing_time": 30,
+        "calories": 250,
+        "ingredients": [
+            "Bell peppers: sliced in various colors for visual appeal.",
+            "Broccoli: florets that add crunch and nutrition.",
+            "Carrots: julienned for sweetness and color.",
+            "Snow peas: crisp and slightly sweet for texture.",
+            "Soy sauce: for a savory umami flavor in the dish.",
+            "Garlic: minced to enhance the aroma and taste.",
+            "Ginger: grated to provide a warm, spicy undertone.",
+            "Sesame oil: drizzled at the end for a nutty finish."
+        ]
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Chocolate Chip Cookies",
+        "recipe_image": "https://images.pexels.com/photos/1556688/pexels-photo-1556688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "Classic cookies with gooey chocolate chips, perfect for any occasion.",
+        "preparing_time": 25,
+        "calories": 300,
+        "ingredients": [
+            "Flour: all-purpose for structure and texture.",
+            "Sugar: granulated sugar for sweetness and crispness.",
+            "Brown sugar: packed for a moist, chewy cookie.",
+            "Butter: softened for creaminess and flavor.",
+            "Eggs: large eggs to bind the ingredients together.",
+            "Vanilla extract: pure for a rich, sweet aroma.",
+            "Baking soda: leavening agent for a light and fluffy cookie.",
+            "Chocolate chips: semi-sweet for melting and sweetness."
+        ]
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Caesar Salad",
+        "recipe_image": "https://images.pexels.com/photos/29007239/pexels-photo-29007239/free-photo-of-traditional-solyanka-soup-with-bread-on-rustic-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "short_description": "A fresh and crisp salad with a creamy dressing.",
+        "preparing_time": 15,
+        "calories": 200,
+        "ingredients": [
+            "Romaine lettuce: chopped for a crisp base.",
+            "Croutons: crunchy bites made from toasted bread.",
+            "Parmesan cheese: shaved for a salty, nutty flavor.",
+            "Caesar dressing: creamy dressing with anchovies for depth.",
+            "Anchovies: finely chopped for a savory punch.",
+            "Garlic: minced for aromatic richness in the dressing.",
+            "Lemon juice: fresh squeezed for acidity and brightness.",
+            "Black pepper: freshly ground for seasoning."
+        ]
+    }
+]
